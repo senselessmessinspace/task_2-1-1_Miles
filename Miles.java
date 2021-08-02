@@ -4,6 +4,5 @@ public class Miles {
         int bonusMile = ticketPrice/20;
 
         System.out.println("Bonus miles amount " + bonusMile);
-
     }
 }
