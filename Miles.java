@@ -1,9 +1,9 @@
 public class Miles {
     public static void main(String[] args) {
+        int ticketPrice = 1001;
+        int bonusMile = ticketPrice/20;
 
-        int ticket_price = 1321;
-        int bonus_mile = ticket_price/20;
-        System.out.println(bonus_mile);
+        System.out.println("Bonus miles amount " + bonusMile);
 
     }
 }
